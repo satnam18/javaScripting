@@ -1,7 +1,6 @@
 {
   "name": "javascripting",
   "version": "1.0.0",
-  "description": "",
   "main": "introduction.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,15 @@
     "eslint": "^5.9.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satnam18/javaScripting.git"
+  },
+  "bugs": {
+    "url": "https://github.com/satnam18/javaScripting/issues"
+  },
+  "homepage": "https://github.com/satnam18/javaScripting#readme",
+  "description": ""
 }
